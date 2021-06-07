@@ -5,7 +5,7 @@ const vanillaJs = {
     {
       title: "Administrador de citas",
       keyword: "js javascript frontend",
-      imgSrc: "img/AdministradorDeCitasJs.png",
+      imgSrc: "../img/AdministradorDeCitasJs.png",
       category: "vanillaJs",
       description:
         "Este proyecto permite al administrador de una veterinaria gestionar las citas que va a tener durante su jornada de trabajo",
