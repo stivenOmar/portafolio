@@ -9,8 +9,8 @@ const vanillaJs = {
       category: "vanillaJs",
       description:
         "Este proyecto permite al administrador de una veterinaria gestionar las citas que va a tener durante su jornada de trabajo",
-      linkProjGit: "https://facebook.com",
-      linkProjWeb: "https://google.com",
+      linkProjGit: "https://github.com/stivenOmar/administradorCitas",
+      linkProjWeb: "https://xenodochial-torvalds-00abf3.netlify.app/",
       tecnologias: "Javascript - Local storage",
     },
   ],
