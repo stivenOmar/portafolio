@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", (e) => {
 
   setTimeout(() => {
     window.dispatchEvent(new Event("resize"));
-  }, 100);
+  }, 200);
 
   sectionCategories.addEventListener("click", (e) => {
     e.preventDefault();

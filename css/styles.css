@@ -854,6 +854,7 @@ ul {
 /* Estilos overlay */
 
 .overlay {
+  text-align: center;
   font-family: "Poppins", sans-serif;
   position: fixed;
   top: 0;
@@ -883,10 +884,12 @@ ul {
 
 .overlay.active {
   display: flex;
+  height: 100%;
 }
 
 .overlay .description {
   color: #ccc9c9;
+  margin-bottom: 5px;
 }
 
 .overlay .tecnologies {
@@ -920,7 +923,7 @@ ul {
 }
 
 .container-img {
-  width: 50%;
+  width: 40%;
   display: flex;
   flex-direction: row;
   justify-content: space-around;

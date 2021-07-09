@@ -13,6 +13,17 @@ const vanillaJs = {
       linkProjWeb: "https://xenodochial-torvalds-00abf3.netlify.app/",
       tecnologias: "Javascript - Local storage",
     },
+    {
+      title: "Imágenes de Pixabay",
+      keyword: "js javascript frontend api",
+      imgSrc: "../img/imgProyImagenesPixabay.png",
+      category: "vanillaJs",
+      description:
+        "Si necesitas buscar imagenes de alta calidad y además que los derechos de autor no sea un problema, puedes utilizar esta app web",
+      linkProjGit: "https://github.com/stivenOmar/Pixabay_Images",
+      linkProjWeb: "https://romantic-wescoff-21b37f.netlify.app/",
+      tecnologias: "Javascript - API - FETCH - Local Storage",
+    },
   ],
 };
 
